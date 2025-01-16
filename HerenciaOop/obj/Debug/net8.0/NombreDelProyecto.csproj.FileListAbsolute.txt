@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\bin\Debug\net8.0\NombreDelProyecto.exe
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\bin\Debug\net8.0\NombreDelProyecto.deps.json
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\bin\Debug\net8.0\NombreDelProyecto.runtimeconfig.json
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\bin\Debug\net8.0\NombreDelProyecto.dll
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\bin\Debug\net8.0\NombreDelProyecto.pdb
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.AssemblyInfo.cs
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.dll
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\refint\NombreDelProyecto.dll
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.pdb
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\NombreDelProyecto.genruntimeconfig.cache
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\HerenciaOop\obj\Debug\net8.0\ref\NombreDelProyecto.dll
