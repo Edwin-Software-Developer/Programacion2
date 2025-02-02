@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\bin\Debug\net9.0\Kiss.exe
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\bin\Debug\net9.0\Kiss.deps.json
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\bin\Debug\net9.0\Kiss.runtimeconfig.json
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\bin\Debug\net9.0\Kiss.dll
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\bin\Debug\net9.0\Kiss.pdb
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.AssemblyInfo.cs
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.dll
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\refint\Kiss.dll
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.pdb
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\Kiss.genruntimeconfig.cache
+C:\Users\pc\Desktop\Cuarto Cuatrimestre\Programacion 2\KISS\Kiss\obj\Debug\net9.0\ref\Kiss.dll
